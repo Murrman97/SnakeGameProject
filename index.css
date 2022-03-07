@@ -5,6 +5,8 @@ body {
     align-items: center;
     justify-content: center;
     background-color: lightslategray;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 #board {
